@@ -60,14 +60,24 @@ This project is developed collaboratively by a team of four MCA students.
 
 | Member | Name | Registration Number | Assigned Role |
 |---|---|---|---|
-| Member 1 | Akancha Rani | 12500523 | Backend & Database |
-| Member 2 | Prabhjot Kaur | 12503717 | AI & Machine Learning |
-| Member 3 | Dilip Kumar (Sonu) | 12520416 | Frontend Development |
-| Member 4 | Aryan Guleria | 12522004 | Maps & Algorithms |
+| Member 1 | Prabhjot Kaur | 12503717 | Maps & Algorithms |
+| Member 2 | Akancha Rani | 12500523 | Backend & Database |
+| Member 3 | Dilip Kumar  | 12520416 | Frontend Development |
+| Member 4 | Aryan Guleria | 12522004 | AI & Machine Learning  |
 
 ### 👩‍💻 Individual Responsibilities
 
-#### Member 1 – Backend and Database
+#### Member 1 – Maps and Algorithms
+**Technologies:** Python, OpenStreetMap, OSRM, Routing Algorithms
+
+- Integrate OpenStreetMap for geographical visualization.
+- Implement OSRM-based route calculation.
+- Develop ambulance selection algorithms.
+- Develop hospital recommendation algorithms.
+- Analyse and optimize route recommendations.
+- Implement dynamic rerouting logic.
+
+#### Member 2 – Backend and Database
 **Technologies:** Python, FastAPI, MySQL, SQLAlchemy, Alembic
 
 - Develop and maintain the FastAPI backend.
@@ -77,17 +87,6 @@ This project is developed collaboratively by a team of four MCA students.
 - Develop ambulance and hospital APIs.
 - Implement authentication and authorization.
 - Manage backend business logic and database operations.
-
-#### Member 2 – AI and Machine Learning
-**Technologies:** Python, Scikit-learn, Pandas, NumPy
-
-- Prepare and preprocess datasets.
-- Develop emergency severity classification.
-- Develop ETA prediction models.
-- Train and evaluate Machine Learning models.
-- Analyse emergency and travel-related data.
-- Integrate trained ML models with the backend.
-
 #### Member 3 – Frontend Development
 **Technologies:** React.js, React Router, CSS, JavaScript
 
@@ -99,15 +98,16 @@ This project is developed collaboratively by a team of four MCA students.
 - Integrate frontend pages with backend APIs.
 - Maintain responsive and user-friendly interfaces.
 
-#### Member 4 – Maps and Algorithms
-**Technologies:** Python, OpenStreetMap, OSRM, Routing Algorithms
+#### Member 4 – AI and Machine Learning
+**Technologies:** Python, Scikit-learn, Pandas, NumPy
 
-- Integrate OpenStreetMap for geographical visualization.
-- Implement OSRM-based route calculation.
-- Develop ambulance selection algorithms.
-- Develop hospital recommendation algorithms.
-- Analyse and optimize route recommendations.
-- Implement dynamic rerouting logic.
+- Prepare and preprocess datasets.
+- Develop emergency severity classification.
+- Develop ETA prediction models.
+- Train and evaluate Machine Learning models.
+- Analyse emergency and travel-related data.
+- Integrate trained ML models with the backend.
+
 
 **Team Collaboration:** All members participate in integration, testing, documentation, and final project demonstration.
 
