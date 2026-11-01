@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+**/venv/
+**/.venv/
+**/node_modules/
+**/__pycache__/
+*.pyc
+*.log
+*.dump
+*.bak
+# Keep internal development notes local
+DEMO_GUIDE.md
+PROJECT_PROGRESS.md
